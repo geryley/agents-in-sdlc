@@ -1,5 +1,6 @@
 ---
 title: "Ejercicio 6 - Iterar sobre el trabajo de GitHub Copilot"
+description: "Publica los cambios de accesibilidad, revisa la solicitud de incorporación de cambios y repasa el taller de VS Code."
 authors:
   - geektrainer
 lastUpdated: 2026-06-30
@@ -68,8 +69,8 @@ Aquí termina el itinerario obligatorio de VS Code. Puedes parar aquí con el ta
 
 Si quieres ampliar tu perspectiva sobre las capacidades de los agentes de Copilot, los otros itinerarios cubren escenarios relacionados a través de distintas interfaces:
 
-- 💻 **[Itinerario de CLI](../../cli/)**: realiza flujos similares desde el terminal con Copilot CLI: modo plan, habilidades de agente, agentes personalizados y comandos de barra como `/share`, `/context` y `/delegate`.
-- ☁️ **[Itinerario del agente en la nube](../../cloud/)**: céntrate en asignar incidencias al agente en la nube, supervisar sesiones a través de la página de agentes e iterar de forma asíncrona sobre solicitudes de incorporación de cambios.
+- 💻 **[Itinerario de CLI](../../cli/)**: entrega dos cambios revisados desde el terminal con los modos Plan y Autopilot, habilidades, un agente personalizado de QA, Playwright MCP, Agent Merge y traspasos con contexto.
+- ☁️ **[Itinerario del agente en la nube](../../cloud/)**: céntrate en asignar incidencias al agente en la nube, supervisar sesiones desde la página de agentes e iterar de forma asíncrona sobre solicitudes de incorporación de cambios.
 
 También puedes seguir ampliando lo que has empezado aquí. [awesome-copilot][awesome-copilot] es una gran fuente de archivos de instrucciones, agentes personalizados y habilidades que puedes adaptar a tus propios proyectos.
 

@@ -3,14 +3,14 @@ slug: es-es/real-world-development/app
 title: "Aplicación GitHub Copilot"
 authors:
   - geektrainer
-lastUpdated: 2026-06-30
+lastUpdated: 2026-09-17
 ---
 
-La [**aplicación GitHub Copilot**](https://docs.github.com/copilot/concepts/agents/github-copilot-app) es una aplicación de escritorio basada en Copilot CLI que reúne el desarrollo dirigido por agentes en un único espacio de trabajo específico. Añade sesiones de agente en paralelo, modos de sesión intercambiables, lienzos compartidos y gestión nativa de incidencias y solicitudes de incorporación de cambios de GitHub, incluido **Agent Merge**, que guía una solicitud durante reorganizaciones de base, comentarios de revisión, correcciones de CI y la combinación.
+La [**aplicación GitHub Copilot**](https://docs.github.com/copilot/concepts/agents/github-copilot-app) es una aplicación de escritorio basada en Copilot CLI que reúne el desarrollo dirigido por agentes en un único espacio de trabajo. Añade sesiones de agente en paralelo, modos de sesión intercambiables, lienzos compartidos y gestión nativa de incidencias y solicitudes de incorporación de cambios de GitHub, incluido **Agent Merge**, que ayuda a resolver los bloqueos de una solicitud: volver a aplicar los cambios sobre la rama base actualizada, atender los comentarios de revisión, corregir los fallos de integración continua (CI) y combinarla.
 
 El taller sigue un único flujo continuo de Tailspin Toys:
 
-1. Prepara el proyecto, instala la aplicación, conecta el repositorio y explora el espacio de trabajo y la lista de trabajo pendiente inicial.
+1. Prepara el proyecto, instala la aplicación, conecta el repositorio y explora el espacio de trabajo y el backlog precargado.
 2. Realiza un cambio específico de valoraciones por estrellas, revísalo en el navegador y combina manualmente tu primera solicitud de incorporación de cambios (PR).
 3. Parte de la incidencia de filtrado, define el enfoque en modo **Plan**, desarróllalo en modo **Autopilot** y revísalo en modo **Interactive**.
 4. Actualiza las instrucciones del repositorio y aplícalas al trabajo de filtrado.
